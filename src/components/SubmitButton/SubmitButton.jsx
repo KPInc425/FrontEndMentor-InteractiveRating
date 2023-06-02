@@ -1,8 +1,8 @@
 import styles from './SubmitButton.module.sass';
 
-const SubmitButton = () => {
+const SubmitButton = ({ setSubmitRating }) => {
     return (
-        <button className={styles.submitButton}>Submit</button>
+        <button className={styles.submitButton} onClick={() => setSubmitRating(true)}>Submit</button>
     )
 }
 

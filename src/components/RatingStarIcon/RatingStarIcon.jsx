@@ -4,7 +4,7 @@ import styles from './RatingStarIcon.module.sass'
 const RatingStarIcon = ({rating}) => {
     let ratingStars = []
     for (let i = 0; i < rating; i++) {
-      ratingStars.push(<img src={starIcon} alt="star icon" className={styles.starIcon} />)
+      ratingStars.push(<img key={i} src={starIcon} alt="star icon" className={styles.starIcon} />)
     }
     return (
       <div className={styles.starIconContainer}>

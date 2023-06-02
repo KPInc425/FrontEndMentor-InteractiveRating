@@ -7,8 +7,6 @@ import './App.css'
 import RatingCard from './components/RatingCard/RatingCard'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <RatingCard />
