@@ -27,11 +27,11 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
 ![](./solutionImages/InteractiveRatingComponent_States.jpg)
-![](./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg)
-![](./solutionImages/InteractiveRatingComponent_Mobile.jpg)
-
+<div style="display: block; margin: 0 auto">
+  ![](./solutionImages/InteractiveRatingComponent_Mobile.jpg)
+  ![](./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg)
+</div>
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
