@@ -29,8 +29,10 @@ Users should be able to:
 ### Screenshot
 ![](./solutionImages/InteractiveRatingComponent_States.jpg)
 <p align='center'>
-  ![](./solutionImages/InteractiveRatingComponent_Mobile.jpg)
-  ![](./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg)
+  <!-- ![](./solutionImages/InteractiveRatingComponent_Mobile.jpg) -->
+  <img src="./solutionImages/InteractiveRatingComponent_Mobile.jpg">
+  <img src="./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg">
+  <!-- ![](./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg) -->
 </p>
 ### Links
 
