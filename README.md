@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 ![](./solutionImages/InteractiveRatingComponent_States.jpg)
-<div style="display: block; margin: 0 auto">
+<span style="display: block; margin: 0 auto">
   ![](./solutionImages/InteractiveRatingComponent_Mobile.jpg)
   ![](./solutionImages/InteractiveRatingComponent_ThankYou_Mobile.jpg)
-</div>
+</span>
 ### Links
 
 - Solution URL: [Frontend Mentor](https://your-solution-url.com)
